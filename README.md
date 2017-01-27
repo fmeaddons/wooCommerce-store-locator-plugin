@@ -1,1 +1,1 @@
-# wooCommerce-store-locator-plugin
+# woocommerce-store-locator-plugin
